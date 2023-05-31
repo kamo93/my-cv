@@ -8,6 +8,6 @@ On chrome browser open localhost, print page, finally open more settings option 
 option.
 
 ## TODO
-[] Upload site 
-[] Use another dev server instead of parcel
+[ ] Upload site
+[ ] Use another dev server instead of parcel
 [] When the site info update, generate a pdf to my google drive and update last.
