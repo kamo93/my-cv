@@ -10,4 +10,4 @@ option.
 ## TODO
 - [ ] Upload site
 - [ ] Use another dev server instead of parcel
-- [] When the site info update, generate a pdf to my google drive and update last.
+- [ ] When the site info update, generate a pdf to my google drive and update last.
